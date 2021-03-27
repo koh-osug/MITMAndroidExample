@@ -1,0 +1,3 @@
+[submodule "LittleProxy-mitm"]
+	path = LittleProxy-mitm
+	url = https://github.com/koh-osug/LittleProxy-mitm.git
